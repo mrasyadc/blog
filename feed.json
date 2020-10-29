@@ -9,5 +9,17 @@
         "name": "Muhammad Rasyad C"
     },
     "items": [
+        {
+            "id": "https://mrasyadc.github.io/blog/tes.html",
+            "url": "https://mrasyadc.github.io/blog/tes.html",
+            "title": "Tes",
+            "author": {
+                "name": "Muhammad Rasyad C"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-29T21:10:53+07:00",
+            "date_modified": "2020-10-29T21:10:53+07:00"
+        }
     ]
 }

@@ -3,10 +3,22 @@
     <title>Rasyad&#x27;s blog</title>
     <link href="https://mrasyadc.github.io/blog/feed.xml" rel="self" />
     <link href="https://mrasyadc.github.io/blog" />
-    <updated>1970-01-01T07:00:00+07:00</updated>
+    <updated>2020-10-29T21:10:53+07:00</updated>
     <author>
         <name>Muhammad Rasyad C</name>
     </author>
     <id>https://mrasyadc.github.io/blog</id>
 
+    <entry>
+        <title>Tes</title>
+        <author>
+            <name>Muhammad Rasyad C</name>
+        </author>
+        <link href="https://mrasyadc.github.io/blog/tes.html"/>
+        <id>https://mrasyadc.github.io/blog/tes.html</id>
+
+        <updated>2020-10-29T21:10:53+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
