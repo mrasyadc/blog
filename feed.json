@@ -12,14 +12,16 @@
         {
             "id": "https://mrasyadc.github.io/blog/tes/",
             "url": "https://mrasyadc.github.io/blog/tes/",
-            "title": "Tes",
+            "title": "Manajemen Layanan",
+            "summary": "Apa itu services atau layanan? service atau layanan adalah bagaimana service provider untuk menyediakan value/nilai tanpa customer harus managing specific costs and risks.",
+            "content_html": "<p>Apa itu services atau layanan? service atau layanan adalah bagaimana service provider untuk menyediakan value/nilai tanpa customer harus managing specific costs and risks.</p>",
             "author": {
                 "name": "Muhammad Rasyad C"
             },
             "tags": [
             ],
             "date_published": "2020-10-29T21:10:53+07:00",
-            "date_modified": "2020-10-29T21:31:38+07:00"
+            "date_modified": "2020-11-09T20:01:54+07:00"
         }
     ]
 }

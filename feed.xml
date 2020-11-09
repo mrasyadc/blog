@@ -3,22 +3,30 @@
     <title>Rasyad&#x27;s blog</title>
     <link href="https://mrasyadc.github.io/blog/feed.xml" rel="self" />
     <link href="https://mrasyadc.github.io/blog" />
-    <updated>2020-10-29T21:31:38+07:00</updated>
+    <updated>2020-11-09T20:01:54+07:00</updated>
     <author>
         <name>Muhammad Rasyad C</name>
     </author>
     <id>https://mrasyadc.github.io/blog</id>
 
     <entry>
-        <title>Tes</title>
+        <title>Manajemen Layanan</title>
         <author>
             <name>Muhammad Rasyad C</name>
         </author>
         <link href="https://mrasyadc.github.io/blog/tes/"/>
         <id>https://mrasyadc.github.io/blog/tes/</id>
 
-        <updated>2020-10-29T21:31:38+07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-11-09T20:01:54+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Apa itu services atau layanan? service atau layanan adalah bagaimana service provider untuk menyediakan value/nilai tanpa customer harus managing specific costs and risks.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Apa itu services atau layanan? service atau layanan adalah bagaimana service provider untuk menyediakan value/nilai tanpa customer harus managing specific costs and risks.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
