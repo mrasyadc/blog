@@ -3,7 +3,7 @@
     <title>Rasyad&#x27;s blog</title>
     <link href="https://mrasyadc.github.io/blog/feed.xml" rel="self" />
     <link href="https://mrasyadc.github.io/blog" />
-    <updated>2020-11-09T20:01:54+07:00</updated>
+    <updated>2020-11-09T20:06:27+07:00</updated>
     <author>
         <name>Muhammad Rasyad C</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://mrasyadc.github.io/blog/tes/"/>
         <id>https://mrasyadc.github.io/blog/tes/</id>
+            <category term="IT Services"/>
 
-        <updated>2020-11-09T20:01:54+07:00</updated>
+        <updated>2020-11-09T20:06:27+07:00</updated>
             <summary>
                 <![CDATA[
                     Apa itu services atau layanan? service atau layanan adalah bagaimana service provider untuk menyediakan value/nilai tanpa customer harus managing specific costs and risks.
